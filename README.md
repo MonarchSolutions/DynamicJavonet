@@ -11,7 +11,7 @@ var calc = Javonet.New("Calculator");
 dynamic calc = DJ.New("Calculator"); //DJ ver
 
 var CalcType = Javonet.GetType("Calculator");
-var CalcType = DJ.Type("Calculator");
+dynamic CalcType = DJ.Type("Calculator");
 
 calc.Invoke<float>("Sub", new JPrimitive(1f / 3f), new JPrimitive(1f / 7f));
 calc.Sub(1f / 3f, 1f / 7f);
