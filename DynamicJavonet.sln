@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicJavonet", "DynamicJavonet\DynamicJavonet.csproj", "{9DF5AB6D-BC4B-4F73-8090-C47B1DF22618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicJavonet.TestCLI", "DJ.TestCLI\DynamicJavonet.TestCLI.csproj", "{AF64FA41-E99F-4802-A3CE-EC8DE52A115B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF5AB6D-BC4B-4F73-8090-C47B1DF22618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF5AB6D-BC4B-4F73-8090-C47B1DF22618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF5AB6D-BC4B-4F73-8090-C47B1DF22618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF5AB6D-BC4B-4F73-8090-C47B1DF22618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF64FA41-E99F-4802-A3CE-EC8DE52A115B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF64FA41-E99F-4802-A3CE-EC8DE52A115B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF64FA41-E99F-4802-A3CE-EC8DE52A115B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF64FA41-E99F-4802-A3CE-EC8DE52A115B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47448CF1-346E-4229-8015-D3193CCB7EC4}
+	EndGlobalSection
+EndGlobal
